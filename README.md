@@ -2,4 +2,5 @@
 LDAP Details
 
 > Username: ben
+
 > Password: benspassword
